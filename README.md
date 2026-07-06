@@ -1,16 +1,14 @@
-## Hi there 👋
+# Roopan Krishna
 
-<!--
-**roopan-99/roopan-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm a BCA graduate with a specialization in Data Science. I enjoy learning new technologies and building projects that help me strengthen my problem-solving and analytical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you'll find projects related to Python, SQL, Excel, Power BI, and Java as I continue to learn and improve.
+
+I'm always open to learning, collaborating, and exploring new opportunities in technology.
+
+📍 Tirupati, Andhra Pradesh  
+💼 LinkedIn: https://www.linkedin.com/in/roopan-krishna
+
+Thanks for stopping by!
