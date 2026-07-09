@@ -1,4 +1,4 @@
-# Mogan Roopan Krishna
+# Roopan Krishna
 
 Welcome to my GitHub!
 
